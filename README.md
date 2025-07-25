@@ -1,5 +1,21 @@
 # 💫 About Me:
-🔭 I’m currently working on Antenna Projects under Jadavpur University, <br>👯 I’m looking to collaborate with top MnCs as intern <br>🌱 I’m currently learning Machine Learning, 3D Websites<br>
+🔭 Hi there! I'm Asmit Ghosh, a full-stack AI Engineer and systems thinker based in Kolkata, India — passionate about building intelligent systems that solve real-world problems across AI, ML, and electronics. <br>
+
+My work spans: <br>
+
+AI/ML-based Systems – From real-time health anomaly detection (ALARMS) to traffic automation using YOLOv5 and TensorFlow. <br>
+
+Full-stack Platforms – Next.js-based portals with integrated exam systems, whiteboards, cloud hosting, and custom UIs. <br>
+
+IoT & Embedded R&D – Currently designing a electrotextile antenna for a 🇮🇳-🇧🇪 Indo-Belgium research project. <br>
+
+Conversational AI – Deployed prompt-engineered chatbots on WhatsApp and Telegram using WebSocket and open LLMs. <br>
+
+I'm a believer in applied intelligence — where systems don’t just compute, but communicate, evolve, and impact. <br>
+
+Let’s connect, collaborate, and co-create: asmitghoshenterprise@gmail.com
+
+
 
 
 ## 🌐 Socials:
