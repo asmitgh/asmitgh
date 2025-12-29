@@ -7,7 +7,7 @@ AI/ML-based Systems – From real-time health anomaly detection (ALARMS) to traf
 
 Full-stack Platforms – Next.js-based portals with integrated exam systems, whiteboards, cloud hosting, and custom UIs. <br>
 
-IoT & Embedded R&D – Currently designing a electrotextile antenna for a 🇮🇳-🇧🇪 Indo-Belgium research project. <br>
+IoT & Embedded R&D – Designed a electrotextile antenna for aJadavpur University undertaken research project in CST Studio Suite for deployment in Maritime SAR Operations. <br>
 
 Conversational AI – Deployed prompt-engineered chatbots on WhatsApp and Telegram using WebSocket and open LLMs. <br>
 
